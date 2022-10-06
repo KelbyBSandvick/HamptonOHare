@@ -1,11 +1,10 @@
-title: John Doe # your name (or website title) here
+title: Hampton O'Hare Int'l # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.hilton.com/en/hotels/chiaphx-hampton-chicago-ohare-international-airport/?SEO_id=GMB-AMER-HX-CHIAPHX&y_source=1_MjA4MzkzNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D">Hotel Website</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
